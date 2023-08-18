@@ -57,6 +57,15 @@ div .note-card {
     margin-right: 0;
 }
 
+.note-content{
+    width: 100%;
+    word-wrap: break-word;
+}
+
+textarea{
+    width: 100%;
+}
+
 div button{
     position: relative;
   float: right;
